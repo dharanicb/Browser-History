@@ -1,0 +1,38 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+  margin: 15px;
+}
+.domain-url {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+  margin: 15px;
+}
+.tittle {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin: 15px;
+}
+.time-accessed {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+  margin: 15px;
+}
+.delete-img {
+  height: 20px;
+  width: 20px;
+  margin: 5px;
+}
