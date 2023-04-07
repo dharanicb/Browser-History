@@ -137,7 +137,7 @@ class App extends Component {
           </div>
         </div>
         <div className="search-results-container">
-          {initialHistory.length < 1 ? (
+          {searchResults.length < 1 ? (
             <div className="text">
               <p>There is no history to show</p>
             </div>
